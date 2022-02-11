@@ -1,4 +1,4 @@
-# Wash Car System - POO Project
+# Car Wash System - POO Project
 
 The intent of this project is share the progress that I'm doing in POO with Java.
 
