@@ -9,6 +9,9 @@ Analise o diagrama e identifique nele os conceitos estudados. Por fim, faça a i
 
 Prof. Dr. Marcos A. Pisching, professor de POO - IFSC
 
+## 🚀 Class Diagram followed
+
+![](DiagramActivityA3.png)
 
 ## 🛠️ Built with
 
